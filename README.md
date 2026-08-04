@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/raj-borge/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/raj-borge/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/raj-borge/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/raj-borge/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/raj-borge/DSA/tree/master/0031-next-permutation) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/raj-borge/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/raj-borge/DSA/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/raj-borge/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0402-remove-k-digits](https://github.com/raj-borge/DSA/tree/master/0402-remove-k-digits) |
@@ -295,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/raj-borge/DSA/tree/master/1021-remove-outermost-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/raj-borge/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
