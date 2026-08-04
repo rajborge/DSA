@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/raj-borge/DSA/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/raj-borge/DSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/raj-borge/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [1021-remove-outermost-parentheses](https://github.com/raj-borge/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/raj-borge/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/raj-borge/DSA/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/raj-borge/DSA/tree/master/0402-remove-k-digits) |
+| [1021-remove-outermost-parentheses](https://github.com/raj-borge/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -284,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/raj-borge/DSA/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/raj-borge/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/raj-borge/DSA/tree/master/0234-palindrome-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/raj-borge/DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
