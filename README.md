@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/raj-borge/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/raj-borge/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/raj-borge/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [3856-trim-trailing-vowels](https://github.com/raj-borge/DSA/tree/master/3856-trim-trailing-vowels) |
 ## Monotonic Stack
 |  |
 | ------- |
