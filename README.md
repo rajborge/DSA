@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/raj-borge/DSA/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/raj-borge/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/raj-borge/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/raj-borge/DSA/tree/master/0141-linked-list-cycle) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/raj-borge/DSA/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/raj-borge/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/raj-borge/DSA/tree/master/0048-rotate-image) |
 | [1903-largest-odd-number-in-string](https://github.com/raj-borge/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/raj-borge/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/raj-borge/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/raj-borge/DSA/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/raj-borge/DSA/tree/master/0151-reverse-words-in-a-string) |
