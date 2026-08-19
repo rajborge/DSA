@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/raj-borge/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/raj-borge/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/raj-borge/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/raj-borge/DSA/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/raj-borge/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/raj-borge/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/raj-borge/DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/raj-borge/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/raj-borge/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/raj-borge/DSA/tree/master/0136-single-number) |
 ## Two Pointers
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/raj-borge/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/raj-borge/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/raj-borge/DSA/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/raj-borge/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/raj-borge/DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/raj-borge/DSA/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
