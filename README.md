@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raj-borge/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/raj-borge/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/raj-borge/DSA/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/raj-borge/DSA/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/raj-borge/DSA/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/raj-borge/DSA/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/raj-borge/DSA/tree/master/0239-sliding-window-maximum) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/raj-borge/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/raj-borge/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/raj-borge/DSA/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/raj-borge/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/raj-borge/DSA/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/raj-borge/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/raj-borge/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -432,4 +434,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raj-borge/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/raj-borge/DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/raj-borge/DSA/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/raj-borge/DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/raj-borge/DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/raj-borge/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
